@@ -1,5 +1,5 @@
 def starts_with_a_vowel?(word)
-"The only otter who lives in Austin is Emily.".scan(/w+aeiou)
+  
 end
 
 def words_starting_with_un_and_ending_with_ing(text)
